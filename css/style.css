@@ -109,6 +109,15 @@ article > img {
   margin-bottom: 3.2rem;
 }
 
+img {
+  transition: all 200ms ease-in-out;
+}
+
+img:hover {
+  filter: hue-rotate(7deg) contrast(101%) saturate(200%);
+  transform: scale(1.05);
+}
+
 .main-title > h1 {
   margin-bottom: 1.6rem;
 }
