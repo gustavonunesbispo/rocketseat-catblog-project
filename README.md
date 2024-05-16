@@ -2,7 +2,7 @@
 The idea is to create the Cat Blog! 🐈
 
 ## Cat Blog • Explorer Challenge
-![Cover](https://github.com/gustavonunesbispo/catblog-project/assets/151034795/697229c0-5981-492a-9f9a-936663db6b0d)
+![cat-blog-banner](https://github.com/gustavonunesbispo/rocketseat-catblog-project/assets/151034795/5510d369-150d-4452-8846-b4ad66982817)
 
 ## About
 The Cat Blog project is a challenge provided by Rocketseat.
